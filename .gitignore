@@ -1,0 +1,9 @@
+target/
+test-output/
+JavaDoc
+javadoc.xml
+.idea
+*.iml
+testreports
+/Environment.properties
+**/*.DS_Store
